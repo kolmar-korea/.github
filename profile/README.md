@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+안녕하세요, 콜마-KAIST 연구입니다.
+
 <!--
 
 **Here are some ideas to get you started:**
